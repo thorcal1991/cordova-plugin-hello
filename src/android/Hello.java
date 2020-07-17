@@ -11,9 +11,7 @@ public class CheckMockLocation extends CordovaPlugin {
 
         if (action.equals("greet")) {
 
-            String name = data.getString(0);
-            String message = "CheckMockLocation, " + name;
-            callbackContext.success(message);
+            callbackContext.success("MOCK LOCATIONNNN");
 
             return true;
 
