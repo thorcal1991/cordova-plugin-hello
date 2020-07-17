@@ -23,6 +23,6 @@
       </feature>
     </config-file>
 
-    <source-file src="src/android/Hello.java" target-dir="src/com/example/plugin/"/>
+    <source-file src="src/android/CheckMockLocation.java" target-dir="src/com/example/plugin/"/>
   </platform>
 </plugin>
