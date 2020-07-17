@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/don/cordova-plugin-hello.git"
+    "url": "git+https://github.com/thorcal191/cordova-plugin-hello.git"
   },
   "keywords": [
     "cordova",
@@ -21,10 +21,10 @@
     "ecosystem:cordova",
     "cordova-android"
   ],
-  "author": "Don Coleman",
+  "author": "Thorsten Callus",
   "license": "Apache-2",
   "bugs": {
-    "url": "https://github.com/don/cordova-plugin-hello/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/don/cordova-plugin-hello#readme"
+  "homepage": ""
 }
