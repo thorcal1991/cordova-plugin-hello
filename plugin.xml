@@ -18,7 +18,7 @@
   <platform name="android">
 
     <config-file target="res/xml/config.xml" parent="/*">
-      <feature name="CheckMockLocation">
+      <feature name="CustomCode">
         <param name="android-package" value="com.example.plugin.CustomCode"/>
       </feature>
     </config-file>
