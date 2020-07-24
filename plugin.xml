@@ -3,7 +3,7 @@
         id="com.example.hello"
         version="0.7.0">
 
-  <name>CheckMockLocation</name>
+  <name>CustomCode</name>
 
   <engines>
     <engine name="cordova" version=">=3.4.0"/>
@@ -19,10 +19,10 @@
 
     <config-file target="res/xml/config.xml" parent="/*">
       <feature name="CheckMockLocation">
-        <param name="android-package" value="com.example.plugin.CheckMockLocation"/>
+        <param name="android-package" value="com.example.plugin.CustomCode"/>
       </feature>
     </config-file>
 
-    <source-file src="src/android/CheckMockLocation.java" target-dir="src/com/example/plugin/"/>
+    <source-file src="src/android/CustomCode.java" target-dir="src/com/example/plugin/"/>
   </platform>
 </plugin>
